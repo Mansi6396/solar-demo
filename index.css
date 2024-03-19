@@ -21,11 +21,12 @@
 
 .nav-title {
   font-family: "Felipa", serif;
-  font-weight: 600;
+  font-weight: 800;
   font-style: normal;
   margin-left: 10px;
   font-size: 1.3rem;
   color: #1e2842;
+  letter-spacing: 1px;
 }
 
 .btn-primary {
@@ -458,4 +459,11 @@
 }
 .links div {
   margin-bottom: 10px;
+}
+.nav-item {
+    a{
+
+      font-weight: 700;
+    }
+  
 }
